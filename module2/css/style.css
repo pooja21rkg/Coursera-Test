@@ -63,7 +63,7 @@ body {
 	border: 1px solid black;
 	text-align: center;
 	width: 120px;
-	paddin+g-top: 3px;
+	padding-top: 3px;
 	padding-bottom: 3px;
 	float: right;
 }
@@ -85,7 +85,8 @@ body {
 	#chicken {
 		background-color: pink;
 		border:2px solid black;
-		width: 85%;
+		width: 75%;
+		height: 120px;
 		float: left;
 		padding: 12px;
 		padding-top: 0px;
@@ -103,13 +104,14 @@ body {
 	#beef {
 		background-color: red;
 		border: 2px solid black;
-		width: 85%;
+		width: 75%;
+		height: 120px;
 		float: left;
 		padding: 12px;
 		padding-top: 0px;
 		padding-right: 0px;
 		margin-left: 0px;
-		margin-top: 20px;
+		margin-top: 30px;
 	}
 	#bspan {
 		background-color: yellow;
@@ -123,13 +125,14 @@ body {
 	#sushi {
 		background-color: orange;
 		border: 2px solid black;
-		width: 85%;
+		width: 75%;
+		height: 120px;
 		float: left;
 		padding: 12px;
 		padding-top: 0px;
 		padding-right: 0px;
 		margin-left: 0px;
-		margin-top: 20px;
+		margin-top: 30px;
 	}
 	#uspan {
 		background-color: blue;
