@@ -106,7 +106,7 @@ body {
 		width: 90%;
 		float: left;
 		padding: 12px;
-		padding-top: 20px;
+		padding-top: 0px;
 		padding-right: 0px;
 	}
 	#bspan {
@@ -124,9 +124,8 @@ body {
 		width: 90%;
 		float: left;
 		padding: 12px;
-		padding-top: 20px;
+		padding-top: 0px;
 		padding-right: 0px;
-		margin-left:10px;
 	}
 	#uspan {
 		background-color: blue;
