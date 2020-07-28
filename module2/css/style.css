@@ -108,6 +108,7 @@ body {
 		padding: 12px;
 		padding-top: 0px;
 		padding-right: 0px;
+		margin-left: 0px;
 	}
 	#bspan {
 		background-color: yellow;
@@ -126,6 +127,7 @@ body {
 		padding: 12px;
 		padding-top: 0px;
 		padding-right: 0px;
+		margin-left: 0px;
 	}
 	#uspan {
 		background-color: blue;
