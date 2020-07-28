@@ -86,7 +86,7 @@ body {
 		background-color: pink;
 		border:2px solid black;
 		width: 75%;
-		height: 120px;
+		height: 140px;
 		float: left;
 		padding: 12px;
 		padding-top: 0px;
@@ -105,13 +105,13 @@ body {
 		background-color: red;
 		border: 2px solid black;
 		width: 75%;
-		height: 120px;
+		height: 140px;
 		float: left;
 		padding: 12px;
 		padding-top: 0px;
 		padding-right: 0px;
 		margin-left: 0px;
-		margin-top: 30px;
+		margin-top: 20px;
 	}
 	#bspan {
 		background-color: yellow;
@@ -126,13 +126,13 @@ body {
 		background-color: orange;
 		border: 2px solid black;
 		width: 75%;
-		height: 120px;
+		height: 140px;
 		float: left;
 		padding: 12px;
 		padding-top: 0px;
 		padding-right: 0px;
 		margin-left: 0px;
-		margin-top: 30px;
+		margin-top: 20px;
 	}
 	#uspan {
 		background-color: blue;
