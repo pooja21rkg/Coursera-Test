@@ -147,6 +147,87 @@ body {
 		float: right;
 	}
 
+}	
+
+@media (min-width: 768px) and (max-width: 991px){
+	#heading h1{
+		padding-left: 313px;
+		padding-bottom: 20px;
+		text-align: left;
+	} 	
+	body {
+		background-color: white;
+	}
+	.content {
+		padding-right: 20px;
+	}
+	#parent {
+		width: 900px;
+		padding-top: 30px;
+		padding-left: 40px;
+		padding-right: 30px;
+	}
+	#chicken {
+		background-color: pink;
+		border:2px solid black;
+		width: 30%;
+		height: 140px;
+		float: left;
+		padding: 12px;
+		padding-top: 0px;
+		padding-right: 0px;
+	}
+	#cspan {
+		background-color: grey;
+		border: 1px solid black;
+		text-align: center;
+		width: 120px;
+		padding-top: 3px;
+		padding-bottom: 3px;
+		float: right;
+	}
+	#beef {
+		background-color: red;
+		border: 2px solid black;
+		width: 40%;
+		height: 160px;
+		float: left;
+		padding: 12px;
+		padding-top: 0px;
+		padding-right: 0px;
+		margin-left: 20px;
+		margin-top: 0px;
+	}
+	#bspan {
+		background-color: yellow;
+		border: 1px solid black;
+		text-align: center;
+		width: 120px;
+		padding-top: 3px;
+		padding-bottom: 3px;
+		float: right;
+	}
+	#sushi {
+		background-color: orange;
+		border: 2px solid black;
+		width: 83.9%;
+		height: 100px;
+		float: left;
+		padding: 12px;
+		padding-top: 0px;
+		padding-right: 0px;
+		margin-left: 0px;
+		margin-top: 20px;
+	}
+	#uspan {
+		background-color: blue;
+		border: 1px solid black;
+		text-align: center;
+		width: 100px;
+		padding-top: 3px;
+		padding-bottom: 3px;
+		float: right;
+	}
+
 }
 	
-
