@@ -29,9 +29,7 @@ body {
 }
 .navbar-header button.navbar-toggle {
   clear: both;
-  margin-top: -30px;
 }
-
 
 .nav-header {
   background-color: #FFFFFF;
@@ -52,7 +50,8 @@ hr {
 #menu{
 	font-family: Georgia, serif;
 	text-align: center;
-	padding: 30px;
+	padding-top: 10px;
+	padding-bottom: 30px;
 }
 .menu-item{
 	text-align: center;
@@ -74,11 +73,12 @@ hr {
 
 
 #chicken{
-	width: 96%;
-	margin-left: 2%;
-	margin-right: 2%;
+	width: 100%;
+	height: auto;
+	margin-left: 3%;
+	margin-right: 3%;
 	background-color: #8CD543;
-	padding: 5px;
+	padding: 10px;
 }
 
 #menu-list{

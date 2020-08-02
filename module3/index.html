@@ -1,43 +1,37 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>module 3</title>
-	<link rel="stylesheet" href="css/style.css">
+  <title>module 3</title>
+  <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-
 </head>
 <body>
-	<header>
-		 <nav id="header-nav">
-            <div class="container-fluid">
-                <div class="navbar-header">
-                    <div class="navbar-brand">
-                    	<h2> Food, LLC </h2>
-                    </div>
 
-                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>                        
-                     </button>
-                </div> 
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">Food, LLC</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+       <ul id = "menu-list" class="nav navbar-nav visible-xs">
+            <li><a class="menu-item visible-xs" href="#">Chicken</a></li>
+            <li><a class="menu-item visible-xs" href="#">Beef</a></li>
+            <li><a class="menu-last visible-xs" href="#">Sushi</a></li>
+      </ul>  
+    </div>
+  </div>
+</nav>
 
-                <div class="collapse navbar-collapse" id="myNavbar">
-                      <ul id = "menu-list" class="nav navbar-nav visible-xs">
-                        <li><a class="menu-item visible-xs" href="#">Chicken</a></li>
-                        <li><a class="menu-item visible-xs" href="#">Beef</a></li>
-                        <li><a class="menu-last visible-xs" href="#">Sushi</a></li>
-                    </ul>  
-			          </div>
-           </div>    
-         </nav>
-    </header>
-
-    <h1 id="menu">Our Menu</h1>
+<h1 id="menu">Our Menu</h1>
         
   <div class="row container container-fluid">
     <div id="chicken">
@@ -46,6 +40,6 @@
       </div>
     </div>       
 
+
 </body>
-                  
 </html>
