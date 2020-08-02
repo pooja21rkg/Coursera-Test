@@ -6,7 +6,7 @@ body {
 }
 
 #header-nav {
-    background-color: #47403F;
+    background-color: grey;
     color: solid black;
     font-family: cursive;
     font-size: 20px;
@@ -20,9 +20,9 @@ body {
 }
 
 #chicken{
-	width: 90%;
-	margin-left: 5%;
-	margin-right: 5%;
+	width: 96%;
+	margin-left: 2%;
+	margin-right: 2%;
 	background-color: #8CD543;
 	padding: 5px;
 }
