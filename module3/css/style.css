@@ -41,18 +41,37 @@ body {
   color: #FFFFFF;
   font-size: 1.5em;
 }
+#nav-list {
+  color: white;
+}
+
+hr {
+  border-color: white;
+}
 
 #menu{
 	font-family: Georgia, serif;
 	text-align: center;
 	padding: 30px;
 }
-
 .menu-item{
 	text-align: center;
-	border-style: solid;
 	border-color: black;
+	border-bottom: 2px solid black; 
 }
+.menu-item{
+	text-align: center;
+	border-color: black;
+	border-bottom: 2px solid black; 
+}
+.menu-last{
+	color:#9B4EDF;
+	font-weight: bold;
+	text-align: center;
+	border-color: black;
+	border-bottom: 2px solid black; 
+}
+
 
 #chicken{
 	width: 96%;
@@ -64,5 +83,7 @@ body {
 
 #menu-list{
 	color: white;
+	font-size: 1.2em;
+
 }
 
