@@ -1,3 +1,16 @@
+* {
+	box-sizing: border-box;
+}
+
+.container {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
 body {
     font-size: 20px;
     font-family: "Times New Roman", Times, serif;
@@ -19,10 +32,25 @@ body {
   margin-top: -30px;
 }
 
+
+.nav-header {
+  background-color: #FFFFFF;
+}
+
+.nav-brand {
+  color: #FFFFFF;
+  font-size: 1.5em;
+}
+
 #menu{
 	font-family: Georgia, serif;
 	text-align: center;
 	padding: 30px;
+}
+
+.menu-item{
+	text-align: center;
+	border-style: solid;
 }
 
 #chicken{
@@ -31,5 +59,9 @@ body {
 	margin-right: 2%;
 	background-color: #8CD543;
 	padding: 5px;
+}
+
+#menu-list{
+	color: white;
 }
 
