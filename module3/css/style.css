@@ -51,6 +51,7 @@ body {
 .menu-item{
 	text-align: center;
 	border-style: solid;
+	border-color: black;
 }
 
 #chicken{
