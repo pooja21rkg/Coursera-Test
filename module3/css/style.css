@@ -20,12 +20,12 @@ body {
 #header-nav {
     background-color: grey;
     color: solid black;
-    font-family: Georgia, serif;
+    font-family:monospace;
     height: 80px;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid black;
+  border: 1px red;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
@@ -53,16 +53,17 @@ body {
 }
 .menu-item{
 	text-align: center;
+	font-weight: bold;
 	border-color: black;
 	border-bottom: 2px solid black; 
 }
 .menu-item{
 	text-align: center;
+	font-weight: bold;
 	border-color: black;
 	border-bottom: 2px solid black; 
 }
 .menu-last{
-	color:#9B4EDF;
 	font-weight: bold;
 	text-align: center;
 	border-color: black;
@@ -82,6 +83,7 @@ body {
 
 #menu-list{
 	color: white;
+	background-color: white;
 	font-size: 1.2em;
 
 }
