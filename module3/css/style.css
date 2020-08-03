@@ -32,7 +32,7 @@ body {
 }
 
 .nav-header {
-  background-color: #FFFFFF;
+  background-color: #B95989;
 }
 
 .nav-brand {
@@ -48,7 +48,7 @@ body {
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 30px;
-	margin-left: 2.5%;
+	margin-left: 5%;
 	width: 100%;
 }
 .menu-item{
@@ -82,8 +82,8 @@ body {
 }
 
 #menu-list{
-	color: white;
-	background-color: white;
+	color: #B95989;
+	background-color: #DAF7A6;
 	font-size: 1.2em;
 
 }
