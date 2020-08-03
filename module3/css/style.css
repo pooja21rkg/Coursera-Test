@@ -43,15 +43,13 @@ body {
   color: white;
 }
 
-hr {
-  border-color: white;
-}
-
 #menu{
 	font-family: Georgia, serif;
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 30px;
+	margin-left: 2.5%;
+	width: 100%;
 }
 .menu-item{
 	text-align: center;
@@ -74,11 +72,12 @@ hr {
 
 #chicken{
 	width: 100%;
-	height: auto;
-	margin-left: 3%;
-	margin-right: 3%;
+	margin-left: 2.5%;
 	background-color: #8CD543;
-	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 15px;
+	padding-top: 1%;
 }
 
 #menu-list{
