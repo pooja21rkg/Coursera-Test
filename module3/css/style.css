@@ -20,7 +20,7 @@ body {
 #header-nav {
     background-color: grey;
     color: solid black;
-    font-family:monospace;
+    font-family: monospace;
     height: 80px;
 }
 
@@ -72,7 +72,8 @@ body {
 
 
 #chicken{
-	width: 100%;
+	width: 105%;
+	height: 40%;
 	margin-left: 2.5%;
 	background-color: #8CD543;
 	padding-left: 20px;
